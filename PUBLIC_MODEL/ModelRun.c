@@ -50,11 +50,6 @@ double MODEL_RUN(double X[NoParameters] ,
       
 
 
-if(X[0] <= X[1]){*result = *result + 1E10 ; }
-
-if( X[0] > X[1])  // parameter constraints
-{
-
 
 
 double aL = X[0], aS = X[1] , tau = X[2], OVTHRESH1 = X[3],OVTHRESH2 = X[4], sigma1 = X[5], sigma2 =  X[6], rho0 = X[7] , rhow = X[8], S1 = X[9], S2 = X[10], OVTHRESH3 = X[11] , G1 = X[12] , G2 = X[13], MULTIPLIER1 = X[14] , MULTIPLIER2= X[15] ,  MULTIPLIER3 = X[16] ,  MULTIPLIER4 = X[17] , MULTIPLIER5 = X[18] , MULTIPLIER6 = X[19] , mu1 = X[20] , mu2 = X[21] , mu3 = X[22] , mu4 = X[23] , mu5 = X[24] , mu6 = X[25] , B = X[26] , Eb = X[27] ;
@@ -695,9 +690,6 @@ for( int t = 0; t < NoDays; t++)
   
 }
 
-
-
-}
 
  
 
