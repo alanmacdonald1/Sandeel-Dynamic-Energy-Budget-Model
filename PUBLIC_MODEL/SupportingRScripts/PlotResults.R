@@ -1,4 +1,3 @@
-source(paste0(DBdir,"/PhD/ggplot theme/ggtheme.r"))
 
 
 
@@ -42,13 +41,6 @@ g1 = ggplot(Results)+
   xlab("Age (years)")+
    geom_line( aes(x = AgeYears, y =TotalCohortAbundance))+
   ylab(expression(paste(log["10"], "(abundance)"))) +
-  theme_dream(
-    minor.grid = F,
-    base_family = "Times New Roman",
-    axis.lines = T,
-    ticks.length = 0.3,
-    plot.type = "formal"
-  ) +
   theme(panel.border = element_rect(
     colour = "black",
     fill = NA,
@@ -59,13 +51,6 @@ g2 = ggplot(Results)+
   xlab("Age (years)")+
   geom_line( aes(x = AgeYears, y =MeanLength))+
   ylab("Length (cm)")+
-  theme_dream(
-    minor.grid = F,
-    base_family = "Times New Roman",
-    axis.lines = T,
-    ticks.length = 0.3,
-    plot.type = "formal"
-  ) +
   theme(panel.border = element_rect(
     colour = "black",
     fill = NA,
@@ -76,13 +61,6 @@ g3 = ggplot(Results)+
   xlab("Age (years)")+
   geom_line( aes(x = AgeYears, y =MeanWeight))+
   ylab("Weight (g)")+
-  theme_dream(
-    minor.grid = F,
-    base_family = "Times New Roman",
-    axis.lines = T,
-    ticks.length = 0.3,
-    plot.type = "formal"
-  ) +
   theme(panel.border = element_rect(
     colour = "black",
     fill = NA,
