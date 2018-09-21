@@ -2,15 +2,7 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  SANDEEL DEB MODEL  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 #############################################################################################################
 
-# SET WORKING DIRECTORY
-
-rm(list = ls())
-
-if (as.data.frame(Sys.info()["sysname"]) == "Linux")
-  DBdir <- ("/home/qrb12181/Dropbox") else
-    DBdir <- ("/Users/Alan/Dropbox")
-  
-  setwd(paste0(DBdir,"/PhD/SandeelDEBmodel/Parameterisation/PUBLIC_2"))
+# Navigate to PUBLIC_MODEL
   
   # compile c code
   system('R CMD SHLIB ModelRun.c')
