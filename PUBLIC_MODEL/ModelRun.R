@@ -2,7 +2,7 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  SANDEEL DEB MODEL  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 #############################################################################################################
 
-# Navigate to PUBLIC_MODEL
+# Set PUBLIC_MODEL as your home directory
   
   # compile c code
   system('R CMD SHLIB ModelRun.c')
