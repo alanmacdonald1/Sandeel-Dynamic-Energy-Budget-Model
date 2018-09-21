@@ -94,14 +94,7 @@
                      as.integer(TimeToSave[,1]),
                      result = double(length(1)))
       
-      # SAVE TO FILE
-      #if( ((proc.time() - ptm)[3]/60)/60  >9){
-      #write.table(t(c(RunModel[["result"]],X)),
-      #            #file="/home/qrb12181/GrowthModelRuns/DEBpara.txt",
-      #            file="/Users/Alan/Desktop/DEBparaSANN2.txt",
-      #            append=TRUE,eol="\r",sep=",",
-      # col.names = FALSE,row.names = FALSE)
-      #}
+
       
     }
     RunModel[["result"]]
