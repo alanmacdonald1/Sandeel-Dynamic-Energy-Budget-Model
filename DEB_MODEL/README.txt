@@ -1,13 +1,12 @@
 SANDEEL DEB MODEL
 
-
+@copyright Copyright 2018-2019 Alan MacDonald
 
 #~~~ Summary ~~~#
 
 This code produces model results in 
 'Exploring the Influence of Food and Temperature on North Sea Sandeels Using a New Dynamic Energy Budget Model' by Alan MacDonald, Douglas C. Speirs, Simon P. R. Greenstreet and Michael R. Heath.
 https://www.frontiersin.org/articles/10.3389/fmars.2018.00339/full
-
 
 #~~~ Running instructions ~~~#
 
