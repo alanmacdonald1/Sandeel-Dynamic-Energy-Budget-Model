@@ -12,8 +12,9 @@
 <div style="width:10vw">
 <img float="left" margin = 10 padding = 10 width="40%" alt="example_of_model_output" src="https://user-images.githubusercontent.com/43473952/207916898-d9bba1c5-40e4-4bcb-93fc-a78178daa8d8.png">
 
- <img float="left" margin = 10 padding = 10 width="40%" alt="example_of_model_output" src="https://user-images.githubusercontent.com/43473952/207920268-b1d85bf0-660a-4024-8a63-f0bf1b714c13.png"> 
+ <img float="left" margin = 10 padding = 10 width="40%" alt="example_of_model_output" src="[https://user-images.githubusercontent.com/43473952/207920268-b1d85bf0-660a-4024-8a63-f0bf1b714c13.png](https://user-images.githubusercontent.com/43473952/207920436-16c9ee64-e2e6-4969-af9e-d5a959e9d84c.png)">  
 
+ 
  </div>
 
 
