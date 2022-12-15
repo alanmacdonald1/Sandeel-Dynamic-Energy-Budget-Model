@@ -9,7 +9,7 @@
 <h1 align="center">sandeel population model for the North Sea</h1>
 
 
-<div style="width:10vw">
+<div align="center" style="width:10vw">
 <img float="left" margin = 10 padding = 10 width="40%" alt="example_of_model_output" src="https://user-images.githubusercontent.com/43473952/207916898-d9bba1c5-40e4-4bcb-93fc-a78178daa8d8.png">
 
  <img float="left" margin = 10 padding = 10 width="40%" alt="paper" src="https://user-images.githubusercontent.com/43473952/207920436-16c9ee64-e2e6-4969-af9e-d5a959e9d84c.png" >
