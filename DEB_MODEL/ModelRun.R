@@ -2,12 +2,15 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  SANDEEL DEB MODEL  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 #############################################################################################################
 
+
+# *NOTE* you should be in the directory 'DEB_MODEL' - where this script is located...
+
+
 # SET WORKING DIRECTORY
 
 rm(list = ls())
 
-setwd("/Users/sa07am/OneDrive/Sandeels/Sandeel-Dynamic-Energy-Budget-Model/DEB_MODEL/")
-  
+ 
   # compile c code
   system('R CMD SHLIB ModelRun.c')
   
