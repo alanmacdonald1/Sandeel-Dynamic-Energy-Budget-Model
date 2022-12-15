@@ -5,17 +5,14 @@
 
 <a name="readme-top"></a>
 
-<!-- SUMMARY -->
-
 ### sandeel population model for the North Sea
-
- 
 
 @copyright Copyright 2018-2019 Alan MacDonald
 
 
-#~~~ Running instructions ~~~#
-
+<!-- Running instructions -->
+## Running instructions
+ 
 To run, simply run the 'ModelRun.R' script.
 
 The user can parameterise the model by changing line 30 to
@@ -27,12 +24,8 @@ or run the model by  changing line 30 to
 Parameterisation="F"
 
 
- 
-
-<!-- TO DO -->
-## Roadmap
-
-#~~~ Summary ~~~#
+<!-- Summary -->
+## Summary
 
 This code produces model results in 
 'Exploring the Influence of Food and Temperature on North Sea Sandeels Using a New Dynamic Energy Budget Model' by Alan MacDonald, Douglas C. Speirs, Simon P. R. Greenstreet and Michael R. Heath.
