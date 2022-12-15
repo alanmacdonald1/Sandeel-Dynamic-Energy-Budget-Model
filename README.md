@@ -7,7 +7,7 @@
 
 ### sandeel population model for the North Sea
 
-@copyright 2018-2019 Alan MacDonald
+
 
 <div style="width:10vw">
 <img float="left" margin = 10 padding = 10 width="40%" alt="example_of_model_output" src="https://user-images.githubusercontent.com/43473952/207916898-d9bba1c5-40e4-4bcb-93fc-a78178daa8d8.png">
@@ -56,7 +56,7 @@ Parameterisation="F"
 
 The directory USER_INPUT allows the user to change the run time, the age and year class of the sandeels and alter parameter values. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"> @copyright 2018-2019 Alan MacDonald (<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- LICENSE
