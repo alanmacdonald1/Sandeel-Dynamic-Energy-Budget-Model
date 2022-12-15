@@ -57,9 +57,6 @@ Running the model produces
 
 The directory USER_INPUT allows the user to change the run time, the age and year class of the sandeels and alter parameter values. 
 
-
-See the [open issues](https://google.com) for a full list of proposed features (and known issues).
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
