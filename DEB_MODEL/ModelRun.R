@@ -6,11 +6,7 @@
 
 rm(list = ls())
 
-if (as.data.frame(Sys.info()["sysname"]) == "Linux")
-  DBdir <- ("/home/qrb12181/Dropbox") else
-    DBdir <- ("/Users/Alan/Dropbox")
-  
-  setwd(paste0(DBdir,"/PhD_archived/DEB_MODEL"))
+setwd("/Users/sa07am/OneDrive/Sandeels/Sandeel-Dynamic-Energy-Budget-Model/DEB_MODEL/")
   
   # compile c code
   system('R CMD SHLIB ModelRun.c')
@@ -79,7 +75,11 @@ if (as.data.frame(Sys.info()["sysname"]) == "Linux")
   }
   
 # load .so file
-dyn.load("ModelRun.so")
+  if(Sys.info()['sysname']=="Windows") {
+    dyn.load("ModelRun.dll")} else {
+      dyn.load("ModelRun.so")
+    }
+  
 
 
 # initial time
