@@ -9,6 +9,7 @@
 
 @copyright 2018-2019 Alan MacDonald
 
+<img width="478" alt="example_of_model_output" src="https://user-images.githubusercontent.com/43473952/207916898-d9bba1c5-40e4-4bcb-93fc-a78178daa8d8.png">
 
 <!-- Summary -->
 ## Summary
