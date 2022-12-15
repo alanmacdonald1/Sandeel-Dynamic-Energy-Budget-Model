@@ -10,9 +10,9 @@
 @copyright 2018-2019 Alan MacDonald
 
 <div style="width:10vw">
-<img width="40%" alt="example_of_model_output" src="https://user-images.githubusercontent.com/43473952/207916898-d9bba1c5-40e4-4bcb-93fc-a78178daa8d8.png">
+<img margin = 10 padding = 10 width="40%" alt="example_of_model_output" src="https://user-images.githubusercontent.com/43473952/207916898-d9bba1c5-40e4-4bcb-93fc-a78178daa8d8.png">
 
-<img width="40%" alt = "paper" src="https://user-images.githubusercontent.com/43473952/207917653-5e3749a1-0a8d-4f37-8e09-8e8dddfc5d48.png">
+<img margin = 10 padding = 10 width="40%" alt = "paper" src="https://user-images.githubusercontent.com/43473952/207917653-5e3749a1-0a8d-4f37-8e09-8e8dddfc5d48.png">
  </div>
 
 
