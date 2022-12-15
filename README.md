@@ -58,10 +58,9 @@ Parameterisation="F"
 
 The directory USER_INPUT allows the user to change the run time, the age and year class of the sandeels and alter parameter values. 
 
-<p align="left"> @copyright 2018-2019 Alan MacDonald  </p>
+<p align="left"> @copyright 2018-2019 Alan MacDonald  (<a align="right" href="#readme-top">back to top</a>) </p>
 
-<p align="right"> (<a href="#readme-top">back to top</a>)</p>
-
+ 
 <!-- LICENSE
 * Code based on *
  
