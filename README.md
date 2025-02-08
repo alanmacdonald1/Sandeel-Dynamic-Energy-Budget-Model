@@ -58,6 +58,7 @@ Parameterisation="F"
 
 The directory USER_INPUT allows the user to change the run time, the age and year class of the sandeels and alter parameter values. 
 
+[![Watch the video](https://user-images.githubusercontent.com/43473952/207920436-16c9ee64-e2e6-4969-af9e-d5a959e9d84c.png)](https://github.com/alanmacdonald1/Sandeel-Dynamic-Energy-Budget-Model/blob/master/clim_avg_animation.mp4)
 <p align="left"> @copyright 2018-2019 Alan MacDonald </p>
 
  
